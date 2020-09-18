@@ -1,0 +1,60 @@
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\AviaSale.exe.config
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\AviaSale.exe
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\AviaSale.pdb
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\MetroFramework.Design.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\MetroFramework.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\MySql.Data.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\Google.Protobuf.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\Renci.SshNet.dll
+C:\Users\ivana\source\repos\AviaSale\AviaSale\bin\Debug\MySql.Data.xml
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.Properties.Resources.resources
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.csproj.CopyComplete
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.exe
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.pdb
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.LoginForm.resources
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.Admin.resources
+C:\Users\ivana\source\repos\AviaSale\AviaSale\obj\Debug\AviaSale.User.resources
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\AviaSale.exe.config
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\AviaSale.exe
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\AviaSale.pdb
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\MetroFramework.Design.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\MetroFramework.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\MetroFramework.Fonts.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\MySql.Data.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\Google.Protobuf.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\BouncyCastle.Crypto.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\Renci.SshNet.dll
+D:\My Progs\C#\AviaSale\AviaSale\bin\Debug\MySql.Data.xml
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.csprojAssemblyReference.cache
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.Admin.resources
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.LoginForm.resources
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.Properties.Resources.resources
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.User.resources
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.csproj.GenerateResource.cache
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.csproj.CopyComplete
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.exe
+D:\My Progs\C#\AviaSale\AviaSale\obj\Debug\AviaSale.pdb
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.csprojAssemblyReference.cache
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.Admin.resources
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.LoginForm.resources
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.Properties.Resources.resources
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.User.resources
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.csproj.GenerateResource.cache
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.exe
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.pdb
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\AviaSale.exe.config
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\AviaSale.exe
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\AviaSale.pdb
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\MetroFramework.Design.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\MetroFramework.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\MetroFramework.Fonts.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\MySql.Data.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\Google.Protobuf.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\BouncyCastle.Crypto.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\Renci.SshNet.dll
+D:\My Progs\C#\AviaSale - Copy\AviaSale\bin\Debug\MySql.Data.xml
+D:\My Progs\C#\AviaSale - Copy\AviaSale\obj\Debug\AviaSale.csproj.CopyComplete
